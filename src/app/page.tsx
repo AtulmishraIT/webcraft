@@ -240,7 +240,7 @@ function App() {
       description:
         "A comprehensive school management platform with student tracking, grade management, and parent communication features.",
       image: "https://via.placeholder.com/400x250",
-      video: "https://www.youtube.com/embed/5xlAztfMaTg",
+      video: "",
       github: "https://github.com/AtulmishraIT/school-management",
       demo: "https://school-management-atulmishra.vercel.app",
       tags: ["React", "Node.js", "MongoDB", "Express.js", "Tailwind CSS"],
