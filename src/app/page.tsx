@@ -318,9 +318,9 @@ function App() {
   ]
 
   const stats: Stat[] = [
-    { number: "50+", label: "Projects Completed", icon: <CheckCircle className="w-6 h-6" /> },
-    { number: "30+", label: "Happy Clients", icon: <Users className="w-6 h-6" /> },
-    { number: "2+", label: "Years Experience", icon: <Award className="w-6 h-6" /> },
+    { number: "10+", label: "Projects Completed", icon: <CheckCircle className="w-6 h-6" /> },
+    { number: "3+", label: "Happy Clients", icon: <Users className="w-6 h-6" /> },
+    { number: "1+", label: "Years Experience", icon: <Award className="w-6 h-6" /> },
     { number: "99%", label: "Client Satisfaction", icon: <TrendingUp className="w-6 h-6" /> },
   ]
 

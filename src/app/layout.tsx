@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description:
     "Transform your digital presence with WebCraft Studio. Specializing in modern web development, responsive design, and user-centric experiences that drive business growth.",
   keywords: "web development, MERN stack, React, Node.js, responsive design, UI/UX, Mumbai developer",
+  icons: {
+    icon: "/favicon.ico", // Or .png, .svg
+  },
   authors: [{ name: "Atul Mishra" }],
   openGraph: {
     title: "WebCraft Studio - Professional Web Development Services",
