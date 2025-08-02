@@ -720,7 +720,7 @@ function App() {
                       </motion.div>
 
                       <div className="relative w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
-                        <img src="/Atul.jpg" alt="Atul Mishra - Web Developer" className="w-full h-full object-cover" />
+                        <img src="/webcraft-logo.jpg" alt="Atul Mishra - Web Developer" className="w-full h-full object-cover" />
                         <motion.div
                           initial={{ opacity: 0 }}
                           animate={{ opacity: 0.1 }}
