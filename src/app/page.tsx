@@ -406,8 +406,8 @@ function App() {
         />
 
         {/* Navigation */}
-        <header className="fixed top-0 left-0 right-0 z-40 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md shadow-lg transition-colors duration-300">
-          <div className="container mx-auto px-4 py-4">
+        <header className="fixed top-0 left-0 right-0 z-40 max-sm:right-10 bg-white/80 dark:bg-gray-900/80 backdrop-blur-md shadow-lg transition-colors duration-300">
+          <div className="container mx-auto px-4 py-4 max-sm:mx-0">
             <div className="flex justify-between items-center">
               <motion.div
                 initial={{ opacity: 0, x: -20 }}
